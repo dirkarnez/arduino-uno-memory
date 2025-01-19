@@ -6,9 +6,11 @@ Global variables use 206 bytes (10%) of dynamic memory, leaving 1842 bytes for l
 ```
 ### Tutorials
 - [**You know you have a memory problem when... | Memories of an Arduino | Adafruit Learning System**](https://learn.adafruit.com/memories-of-an-arduino?view=all)
+- [Measuring Memory Usage | Memories of an Arduino | Adafruit Learning System](https://learn.adafruit.com/memories-of-an-arduino/measuring-free-memory)
 
 ### Libraries
 - [mpflaga/Arduino-MemoryFree: basic functions and example to use show used RAM and use less of it.](https://github.com/mpflaga/Arduino-MemoryFree)
+- [yokoyama-flogics/arduino_heap_visualizer: Visualize Arduino (Uno) heap and stack utilization](https://github.com/yokoyama-flogics/arduino_heap_visualizer)
 
 ### How to burn
 - ```cmd
