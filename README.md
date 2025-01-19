@@ -1,8 +1,10 @@
-arduino-uno-a6-gsm
+arduino-uno-memory
 ==================
-### Reference
-- [**Mini A6 GA6-B GPRS GSM Module Board COM56 ,R24 - Faranux Electronics**](https://www.faranux.com/product/mini-a6-ga6-gprs-gsm-module-board-com56/)
-- [In-Depth: Send Receive SMS & Call with SIM800L GSM Module & Arduino](https://lastminuteengineers.com/sim800l-gsm-module-arduino-tutorial/)
+### Tutorials
+- [**You know you have a memory problem when... | Memories of an Arduino | Adafruit Learning System**](https://learn.adafruit.com/memories-of-an-arduino?view=all)
+
+### Libraries
+- [mpflaga/Arduino-MemoryFree: basic functions and example to use show used RAM and use less of it.](https://github.com/mpflaga/Arduino-MemoryFree)
 
 ### How to burn
 - ```cmd
