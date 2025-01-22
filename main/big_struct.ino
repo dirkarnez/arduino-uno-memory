@@ -30,6 +30,7 @@ void loop() {
   volatile struct A  a = {0};
 
   while (true) {
+    // start having problems printing when the struct instance "a" is having too many properties
     Serial.println( freeMemory()); 
   }
 }
