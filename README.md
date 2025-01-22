@@ -7,6 +7,7 @@ Global variables use 206 bytes (10%) of dynamic memory, leaving 1842 bytes for l
 ### Tutorials
 - [**You know you have a memory problem when... | Memories of an Arduino | Adafruit Learning System**](https://learn.adafruit.com/memories-of-an-arduino?view=all)
 - [Measuring Memory Usage | Memories of an Arduino | Adafruit Learning System](https://learn.adafruit.com/memories-of-an-arduino/measuring-free-memory)
+- [AVR Memory Organization](https://download.mikroe.com/documents/compilers/mikroc/avr/help/avr_memory_organization.htm)
 
 ### Libraries
 - [mpflaga/Arduino-MemoryFree: basic functions and example to use show used RAM and use less of it.](https://github.com/mpflaga/Arduino-MemoryFree)
